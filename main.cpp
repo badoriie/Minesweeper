@@ -1,4 +1,4 @@
-/* TERM project BY amirbahador nasari
+/* TERM project by Badoriie
   31-01-12 13:11 */
 
 #include "graphics.h"
